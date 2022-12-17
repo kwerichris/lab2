@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee68a644-fe58-4a54-9b1e-3602650365b4" name="Changes" comment="Jenkins file added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ee68a644-fe58-4a54-9b1e-3602650365b4" name="Changes" comment="Jenkins file updated">
       <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671314085382</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Jenkins file updated">
+      <created>1671315739130</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671315739130</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New App" />
     <MESSAGE value="Jenkins file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jenkins file added" />
+    <MESSAGE value="Jenkins file updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jenkins file updated" />
   </component>
 </project>
