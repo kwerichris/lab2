@@ -8,8 +8,8 @@ pipeline {
         sh 'mvn install'
       }
       tools {
-              maven 'Maven 3.2.5'
-          }
+         maven 'Maven 3.8.6'
+      }
     }
   }
 }
